@@ -1,0 +1,5 @@
+# Pinned to the Python 3.12 environment used for grading.
+streamlit==1.63.0
+pandas==3.0.5
+altair==6.3.0
+PyYAML==6.0.3
